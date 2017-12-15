@@ -1,0 +1,14 @@
+#special{height:540px;background-color:#ffc000;border:0px;
+		margin-bottom:10px;}
+#sales{width:1200px;height:100%;margin-left:128px;}
+#sales>div{height:330px;}
+#sales>div p{width:100%;padding:10px 0 10px 0;;font-weight:bold;
+			font-size:20px;font-family:"微软雅黑";}
+#sales>div p span{font-weight:normal;font-size:12px}
+#sales>div #top{height:290px;width:190px;padding-left:2px;
+				overflow:hidden;}
+#sales>div ul{width:1007px;height:300px;}
+#sales>div ul li{margin:0px 0px 10px 11px;width:190px;
+				height:140px;}
+#sales ul li{margin-left:2px;}
+#sales li img:hover,#top:hover{margin-top:-2px;}
